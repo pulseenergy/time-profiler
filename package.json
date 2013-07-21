@@ -1,0 +1,14 @@
+{
+	"name": "profiler",
+	"version": "0.0.1",
+	"private": true,
+	"engines": {
+		"node": "0.8.x"
+	},
+	"dependencies": {
+		"underscore": "1.4.4",
+		"q": "0.8.9",
+		"csv": "0.3.0",
+		"moment": "2.0.0"
+	}
+}
